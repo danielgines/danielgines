@@ -77,6 +77,15 @@
       </p>
     </td>
     <td width="50%">
+      <h4>
+        <a href="https://github.com/danielgines/brightdata-exporter">brightdata-exporter</a>
+      </h4>
+      <p>Prometheus exporter and REST API for Bright Data account monitoring and FinOps cost analysis. Stateless, database-free, with picker-driven Grafana dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/ghcr.io-brightdata--exporter-blue" alt="ghcr.io">
+        <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/brightdata-charts" alt="Artifact Hub">
+      </p>
     </td>
   </tr>
 </table>
